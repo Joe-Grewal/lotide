@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@joe_grewal/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighthouse Labs lotide project library",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
