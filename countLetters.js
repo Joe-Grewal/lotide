@@ -10,11 +10,4 @@ const countLetters = (sentence) => {
   } return results;
 };
 
-// Test cases:
-// const words = countLetters("Joe is smart");
-
-// assertEqual(words["s"], 2);
-
-// console.log(countLetters('Lighthouse Labs'));
-
 module.exports = countLetters;
